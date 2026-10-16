@@ -1,0 +1,6 @@
+{
+  "name": "Crown & Follicle Institute | Hair Restoration & Transplant Clinic",
+  "description": "Premier hair restoration and transplant clinic providing Sapphire FUE, DHI, Beard & Eyebrow transplants, Norwood graft calculator, and seamless appointment booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
